@@ -20,6 +20,7 @@ This project demonstrates how to build a **self-learning chatbot** using **Pytho
 ```bash
 git clone https://github.com/tarunkumarbakka/Chatbot-with-ChatterBot.git
 cd Chatbot-with-ChatterBot
+```sh
 
 ### 2. Create and Activate a Virtual Environment
 
