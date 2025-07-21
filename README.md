@@ -1,7 +1,5 @@
 # ChatterBot: Build a Chatbot with Python
 
-This repository contains code related to the tutorial on [building a Python chatbot with ChatterBot](https://realpython.com/build-a-chatbot-python-chatterbot/).
-
 Create and activate a [virtual environment](https://realpython.com/python-virtual-environments-a-primer/), then install the necessary dependencies:
 
 ```sh
